@@ -80,7 +80,7 @@ public class SignUpController implements Initializable {
         } catch (SQLException | ClassNotFoundException | IOException ex) {
             Logger.getLogger(SignUpController.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }//
+    }
 @FXML
 //    public void login(ActionEvent e) {}
     @Override

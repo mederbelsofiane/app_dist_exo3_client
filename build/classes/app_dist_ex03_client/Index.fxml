@@ -28,7 +28,7 @@
             <AnchorPane prefHeight="200.0" prefWidth="200.0">
                <children>
                   <Circle fx:id="user_img" fill="WHITE" layoutX="33.0" layoutY="34.0" radius="21.0" stroke="BLACK" strokeType="INSIDE" />
-                  <Label fx:id="user_name" layoutX="62.0" layoutY="24.0" prefHeight="17.0" prefWidth="118.0" text="Serveur" textFill="WHITE">
+                  <Label fx:id="user_name" layoutX="62.0" layoutY="24.0" prefHeight="17.0" prefWidth="118.0" text="Contacts" textFill="WHITE">
                      <font>
                         <Font size="15.0" />
                      </font>
